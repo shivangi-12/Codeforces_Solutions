@@ -1,0 +1,2 @@
+module Codeforces_Solutions {
+}
